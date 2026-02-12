@@ -1,0 +1,4 @@
+{
+    "command": "pytest",
+    "working_directory": "/home/kavia/workspace/code-generation/energy-usage-dashboard-218671-218649/energy_monitor_backend"
+}
